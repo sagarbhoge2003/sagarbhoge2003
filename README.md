@@ -1,4 +1,4 @@
-<img align="center" width=100% src="Purple Pink Modern Programmer LinkedIn Banner.png"
+![logo](https://github.com/sagarbhoge2003/sagarbhoge2003/blob/main/Purple%20Pink%20Modern%20Programmer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sagar Bhoge</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <img 
