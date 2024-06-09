@@ -1,4 +1,4 @@
-![Banner Image](Purple Pink Modern Programmer LinkedIn Banner.png)
+<img align="center" width=100% src="Purple Pink Modern Programmer LinkedIn Banner.png"
 <h1 align="center">Hi 👋, I'm Sagar Bhoge</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <img 
