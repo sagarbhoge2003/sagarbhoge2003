@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Bhoge</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
-<img src="![image](https://github.com/sagarbhoge2003/sagarbhoge2003/assets/115706182/0192953c-2b15-46b7-b299-42b2d07227fd)
+<img src="https://github.com/sagarbhoge2003/sagarbhoge2003/assets/115706182/0192953c-2b15-46b7-b299-42b2d07227fd
 6" width="400" align="right" >
 
 - 🔭 I’m currently working on **library managment system**
