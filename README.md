@@ -26,6 +26,5 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarbhoge2003&show_icons=true&locale=en&layout=compact" alt="sagarbhoge2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarbhoge2003&show_icons=true&locale=en" alt="sagarbhoge2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbhoge2003&" alt="sagarbhoge2003" /></p>
