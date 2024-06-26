@@ -10,7 +10,7 @@ src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425ad
 
 - 📫 How to reach me **sagarbhoge2003@gmail.com**
 
-- 📄 Know about my me by visiting my website [https://sagar-dev.netlify.app/]
+- 📄 Know about my me by visiting my website https://sagar-dev.netlify.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sagar-vaijinath-bhoge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-vaijinath-bhoge" height="30" width="40" /></a>
